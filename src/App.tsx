@@ -9,27 +9,27 @@ import Fan from './components/fan/fan'
 import './stylesheets/App.scss'
 
 //material ui theme
-declare module '@mui/material/styles' {
+declare module '@mui/material/styles'{
  
-  interface Theme {
+  interface Theme{
     direction: React.CSSProperties['direction'];
   }
 
-  interface Theme {
+  interface Theme{
     status: {
       danger: React.CSSProperties['color'];
     };
   }
 
-  interface PaletteColor {
+  interface PaletteColor{
     darker?: string;
   }
 
-  interface SimplePaletteColorOptions {
+  interface SimplePaletteColorOptions{
     darker?: string;
   }
 
-  interface ThemeOptions {
+  interface ThemeOptions{
     status: {
       danger: React.CSSProperties['color'];
     };
