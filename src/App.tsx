@@ -15,21 +15,21 @@ declare module '@mui/material/styles'{
     direction: React.CSSProperties['direction'];
   }
 
-  interface Theme {
+  interface Theme{
     status: {
       danger: React.CSSProperties['color'];
     };
   }
 
-  interface PaletteColor {
+  interface PaletteColor{
     darker?: string;
   }
 
-  interface SimplePaletteColorOptions {
+  interface SimplePaletteColorOptions{
     darker?: string;
   }
 
-  interface ThemeOptions {
+  interface ThemeOptions{
     status: {
       danger: React.CSSProperties['color'];
     };
