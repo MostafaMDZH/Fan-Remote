@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e09d42a.css",
+    "main.js": "/static/js/main.4641f6e2.js",
+    "static/js/787.cadbb68d.chunk.js": "/static/js/787.cadbb68d.chunk.js",
+    "static/media/Ubuntu-regular.ttf": "/static/media/Ubuntu-regular.fbdecfce69a96dc73e2a.ttf",
+    "static/media/blades.svg": "/static/media/blades.a40bf89b95d9c94f0bbe.svg",
+    "static/media/water_333.svg": "/static/media/water_333.265b4e0790bac7f397fd52edc4516cef.svg",
+    "static/media/water_fff.svg": "/static/media/water_fff.749e8b9344efcffcd9888f921a03ef39.svg",
+    "static/media/sun_333.svg": "/static/media/sun_333.9c580d329bbf90048d960c4e124336f3.svg",
+    "static/media/sun_fff.svg": "/static/media/sun_fff.afd22e69e45b2921eed7750a8c5daeb5.svg",
+    "index.html": "/index.html",
+    "static/media/wave_7bdcb5.svg": "/static/media/wave_7bdcb5.30a2ea4cb822f0aa9046.svg",
+    "static/media/fourBlades_fff.svg": "/static/media/fourBlades_fff.3a93136453430d1ccc5b.svg",
+    "static/media/wind_333.svg": "/static/media/wind_333.1013aff1539bebd8030410caebaf7028.svg",
+    "static/media/wind_fff.svg": "/static/media/wind_fff.41300bcbd6b1360b277bee452b06fb28.svg",
+    "static/media/wave_3c859f.svg": "/static/media/wave_3c859f.7579f9e045c62ebfb4db.svg",
+    "static/media/wave_f6f6f6.svg": "/static/media/wave_f6f6f6.b4f508ccee40cf78e16c.svg",
+    "static/media/power.svg": "/static/media/power.0f5539fe23b1174492ac00c59af31c07.svg",
+    "static/media/arrows-left-right.svg": "/static/media/arrows-left-right.4bbb7e65db7b0853df45fd1e3aee9ea5.svg",
+    "static/media/tree_333.svg": "/static/media/tree_333.e440b52d894ea134c5ca8e1f9b29ff10.svg",
+    "static/media/tree_fff.svg": "/static/media/tree_fff.b4c40b59f3ee255b8c90ac9456aeb598.svg",
+    "main.7e09d42a.css.map": "/static/css/main.7e09d42a.css.map",
+    "main.4641f6e2.js.map": "/static/js/main.4641f6e2.js.map",
+    "787.cadbb68d.chunk.js.map": "/static/js/787.cadbb68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e09d42a.css",
+    "static/js/main.4641f6e2.js"
+  ]
+}
